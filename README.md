@@ -5,3 +5,5 @@
 Image by <a href="https://pixabay.com/users/janjf93-3084263/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2480165">janjf93</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2480165">Pixabay</a>
 
 Aplicativo que recupera informação da localização através do endereço ip, utilizando a API gratuita do [http://ip-api.com](http://ip-api.com)
+
+Fonte: Vídeo [https://www.youtube.com/watch?v=MytQfkDv5eM](https://www.youtube.com/watch?v=MytQfkDv5eM) no YouTube do canal [LuizTools](https://www.youtube.com/channel/UCtM4fMMVCxrXAmqMJ6ZL5Ww/), acesso em 19, abril de 2019.
