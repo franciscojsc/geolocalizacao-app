@@ -8,14 +8,14 @@ public class Localizacao {
     private String countryCode;
     private String country;
     private String city;
-    private String region;
+    private String regionName;
     private String zip;
 
-    public Localizacao(String countryCode, String country, String city, String region, String zip) {
+    public Localizacao(String countryCode, String country, String city, String regionName, String zip) {
         this.countryCode = countryCode;
         this.country = country;
         this.city = city;
-        this.region = region;
+        this.regionName = regionName;
         this.zip = zip;
     }
 
@@ -43,12 +43,12 @@ public class Localizacao {
         this.city = city;
     }
 
-    public String getRegion() {
-        return region;
+    public String getRegionName() {
+        return regionName;
     }
 
-    public void setRegion(String region) {
-        this.region = region;
+    public void setRegionName(String regionName) {
+        this.regionName = regionName;
     }
 
     public String getZip() {
